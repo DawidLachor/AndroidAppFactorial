@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Factorial</string>
+    <string name="factorial">Factorial of 3 is equal to 6</string>
+    <string name="write_number">Write number</string>
+    <string name="calculate">Calculate</string>
+    <string name="todo">Name</string>
+</resources>
